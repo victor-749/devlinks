@@ -12,22 +12,3 @@ Desenvolvido por @victor-749
 ## Quem eu sou?
 
 <p>Olá! Me chamo Victor, estou iniciando esse projeto com suporte da RocketSeat e equipe, e espero ter bons resultados!</p>
-
-<style>
-
-body {
-  text-align: center;
-  display: flex;
-}
-
-h1 {
-  font-weight: 600;
-  font-size: 60px;
-}
-
-p {
-  font-weight 400;
-  font-size: 24px;
-}
-
-</style>
